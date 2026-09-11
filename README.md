@@ -11,12 +11,16 @@ tells you something surfaced.
 
 ---
 
+![The museum, part way down](docs/01_museum.png)
+
 ## Not released yet
 
 There is nothing to download here today. This page exists so there is somewhere
 to ask questions and report problems before there is.
 
-**Watch this repository** to hear when there is a build.
+**Watch this repository** to hear when there is a build. It will be a signed,
+notarised `.dmg` on the [Releases](../../releases) page — drag it to
+Applications and that is the whole install.
 
 ## What it does
 
@@ -26,16 +30,50 @@ goes backwards.
 
 **A daily cap, so burning tokens is pointless.** Past a per-day ceiling, extra
 tokens buy zero depth. The real axis of progression is *days you showed up*, not
-tokens spent.
+tokens spent. The ceiling opens over the minutes you actually work, so the
+number moves through a session instead of arriving all at once — and a day's
+worth of tokens spent in four minutes is still four minutes.
 
-**Species you find, not levels you grind.** 100 marine species across nine
-zones, each at roughly its real depth, each with one fact worth reading. Every
-scientific name is checked against [WoRMS](https://marinespecies.org) and every
-depth against [OBIS](https://obis.org). You cannot meet an anglerfish in a coral
-reef.
+**Species you find, not levels you grind.** 147 marine species across nine
+zones, each at its real depth, each with a fact worth reading and more of them
+the second time you meet it. Every scientific name is checked against
+[WoRMS](https://marinespecies.org) and every depth comes from
+[OBIS](https://obis.org) occurrence records rather than from what would have
+been convenient. You cannot meet an anglerfish in a coral reef.
+
+**And 29 places.** A brine pool with a shoreline at 2,200 m. The Titanic at
+3,800 m. The deepest wreck ever surveyed, at 6,469 m. The spot off Bermuda
+where two men were lowered on a cable in 1934 and became the first people to
+see the deep sea alive. Below 8,400 m nothing described has its shallow limit,
+so down there a place is the only thing left to find — they are counted
+separately, because a shipwreck is not a species.
 
 **And it ends.** There is a bottom, about a year of real use away. What happens
 when you get there is deliberately not written down here.
+
+## What it looks like
+
+The museum fills in as you go. Everything you have not met yet is a silhouette,
+and the shape waiting in the tank is most of the reason to keep going.
+
+![A gallery, part found and part waiting](docs/02_galleries.png)
+
+Click an animal and it tells you what it is, where it lives, and where *you*
+were when you found it.
+
+![A species card](docs/03_species_card.png)
+
+Or go down and swim around at whatever depth you have reached.
+
+![Exploring](docs/04_explore.png)
+
+Places are kept in their own room.
+
+![The places](docs/05_places.png)
+
+> These are from a run part way down — 85 species of 147, 3,114 m — built by
+> putting invented usage through the real engines, so every number on the page
+> is an outcome of the shipped rules. Nobody's actual museum is on display here.
 
 ## What it reads
 
