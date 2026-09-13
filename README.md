@@ -13,14 +13,15 @@ tells you something surfaced.
 
 ![The museum, part way down](docs/01_museum.png)
 
-## Not released yet
+## Download
 
-There is nothing to download here today. This page exists so there is somewhere
-to ask questions and report problems before there is.
+**[TokenDive 0.9.1 for macOS](../../releases/latest)** — a signed, notarised
+`.dmg`. Open it, drag TokenDive to Applications, and that is the whole install.
+It opens on a double click with no warning and no "unidentified developer".
 
-**Watch this repository** to hear when there is a build. It will be a signed,
-notarised `.dmg` on the [Releases](../../releases) page — drag it to
-Applications and that is the whole install.
+macOS 13 or later, Apple silicon. *There is no Intel build yet — if you want
+one, [say so](../../issues) and I will make one; it is a build setting, not a
+rewrite.*
 
 ## What it does
 
@@ -33,6 +34,12 @@ tokens buy zero depth. The real axis of progression is *days you showed up*, not
 tokens spent. The ceiling opens over the minutes you actually work, so the
 number moves through a session instead of arriving all at once — and a day's
 worth of tokens spent in four minutes is still four minutes.
+
+The ceiling is not the same everywhere: it rises as the water gets deeper, and
+the menu always says what today's is and how much of it is left. Which number
+it is at 2,375 m is a thing to find out by being there, not a table to plan
+against — planning against it is the exact behaviour the cap exists to make
+pointless.
 
 **Species you find, not levels you grind.** 147 marine species across nine
 zones, each at its real depth, each with a fact worth reading and more of them
