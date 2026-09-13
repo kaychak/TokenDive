@@ -9,6 +9,9 @@ around 1,000 m the water goes black and things start to glow.
 It lives in your macOS menu bar. It never interrupts you. Once in a while it
 tells you something surfaced.
 
+There is a page for it at **[tokendive.wanqizhai.com](https://tokendive.wanqizhai.com)**,
+with a live piece of the museum you can swim around with the arrow keys.
+
 ---
 
 ![The museum, part way down](docs/01_museum.png)
