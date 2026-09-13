@@ -105,6 +105,13 @@ kind the system protects. That is worth knowing rather than being reassured by �
 **any app you run outside the App Store can read them without asking.** So the
 claims here are built to be checked instead.
 
+Starting with that one. The layer that does the parsing is published on its
+own, under MIT, as
+**[tokendive-parser](https://github.com/kaychak/tokendive-parser)** — the five
+files it names are byte for byte the ones shipped inside the app. The app is
+closed; the part of it that touches your files is not, because that is the part
+where *take my word for it* would not be good enough.
+
 ## What it sends
 
 Nothing. The app contains no HTTP client at all — no `urllib.request`, no
